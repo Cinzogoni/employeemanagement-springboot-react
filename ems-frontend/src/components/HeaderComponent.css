@@ -1,0 +1,14 @@
+.header__navbar--link {
+  font-family: sans-serif;
+  text-decoration: none;
+  color: white;
+  margin: 0 15px;
+  font-size: 20px;
+}
+
+.header__navbar {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  height: 50px;
+}
